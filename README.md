@@ -19,13 +19,12 @@ Bases de datos:
 SQL Developer, MySQL, SQLite
 
 Frameworks:
-React, Spring Boot
+React, Spring Boot, Flask
 
 ## Proyectos
 
-- MediaList (2023)  
+- [MediaList (2023)](https://medialist-a10g.onrender.com)  
 Página web que permite a los usuarios registrarse para crear listas de contenido multimedia (series, libros, videojuegos). Proyecto personal realizado como proyecto final para el curso CS50x (CS50's Introduction to Computer Science) en 2023.
-(Link al despliegue próximamente)
 - [The Space Bus: The Cats Attack (2024)](https://github.com/sy11219/SpaceBus)  
 Videojuego creado como parte de la asociación estudiantil Game Devs PUCP.
 - [JMQ Online - NullPointers (2025)](https://github.com/Programacion3-Nullpointers)  

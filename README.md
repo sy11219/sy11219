@@ -1,16 +1,27 @@
-## Hi there 👋
+# 🖥️⌨️ Santiago Yábar - Estudiante de Ingeniería Informática
 
-<!--
-**sy11219/sy11219** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Mi nombre es Santiago Yábar, soy estudiante de Ingeniería Informática en la Pontificia Universidad Católica del Perú (PUCP).
 
-Here are some ideas to get you started:
+## Sobre mí
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Estudiante de octavo ciclo de Ingeniería Informática
+- País: Perú
+- Idiomas: Español (nativo), Inglés (avanzado) 
+
+
+## Tecnologías
+*(Sección en construcción)*
+
+Lenguajes de programación:
+C, C++, C#, Java, JavaScript, Python, R
+
+Bases de datos:
+SQL Developer, MySQL, SQLite
+
+Frameworks:
+React, Spring Boot
+
+## Proyectos
+
+-
+-

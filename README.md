@@ -10,7 +10,6 @@ Mi nombre es Santiago Yábar, soy estudiante de Ingeniería Informática en la P
 
 
 ## Tecnologías
-*(Sección en construcción)*
 
 Lenguajes de programación:
 C, C++, C#, Java, JavaScript, Python, R
@@ -24,8 +23,8 @@ React, Spring Boot, Flask
 ## Proyectos
 
 - [MediaList (2023)](https://medialist-a10g.onrender.com)  
-Página web que permite a los usuarios registrarse para crear listas de contenido multimedia (series, libros, videojuegos). Proyecto personal realizado como proyecto final para el curso CS50x (CS50's Introduction to Computer Science) en 2023.
+Página web que permite a los usuarios registrarse para crear listas de contenido multimedia (series, libros, videojuegos). Proyecto personal realizado como proyecto final para el curso CS50x (CS50's Introduction to Computer Science) en 2023. Realizado con Flask.
 - [The Space Bus: The Cats Attack (2024)](https://github.com/sy11219/SpaceBus)  
-Videojuego creado como parte de la asociación estudiantil Game Devs PUCP.
+Videojuego creado como parte de la asociación estudiantil Game Devs PUCP. 
 - [JMQ Online - NullPointers (2025)](https://github.com/Programacion3-Nullpointers)  
 Página web de e-commerce para la compra (simulada) de artículos de ferretería. Proyecto colaborativo del curso Programación 3 (1INF30).

@@ -1,4 +1,4 @@
-## Tecnologías
+## Tecnologías que conozco
 
 Lenguajes de programación:
 C, C++, C#, Java, JavaScript, TypeScript, Python, R

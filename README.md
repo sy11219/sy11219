@@ -11,9 +11,11 @@ Spring Boot, React, Next.js, Flask
 
 ## Proyectos destacados
 
-- [MediaList (2023)](https://medialist-a10g.onrender.com)  
-Página web que permite a los usuarios registrarse para crear listas de contenido multimedia (series, libros, videojuegos). Proyecto personal realizado como proyecto final para el curso CS50x (CS50's Introduction to Computer Science) en 2023. Realizado con Flask.
 - [TicketSync (2025)](https://github.com/Los-Guardianes/TicketSync)  
-Página web para la compra (simulada) y creación de tickets para eventos. Proyecto colaborativo del curso Ingeniería de Software (1INF37).
+Página web para la creación y compra simulada de entradas para eventos. Proyecto colaborativo del curso Ingeniería de Software (1INF37).
 - [RegressionPoliceReports-PP0030 (2025)](https://github.com/Mian-droid/RegressionPoliceReports-PP0030)  
 Modelo de regresión que evalúa la relación entre monto devengado del presupuesto PP0030 y número de denuncias policiales por departamento y mes. Proyecto colaborativo del curso Inteligencia Artificial (1INF24).
+- [Latinfo Mobile Demo (2026)](https://github.com/carrerahaus/latinfo-mobile-demo)  
+App de ejemplo para la implementación de la SDK del proyecto Latinfo en dispositivos móviles, con React Native (Expo).
+- [MediaList (2023)](https://medialist-a10g.onrender.com)  
+Página web que permite a los usuarios registrarse para crear listas de contenido multimedia (series, libros, videojuegos). Proyecto personal realizado como proyecto final para el curso CS50x (CS50's Introduction to Computer Science) en 2023. Realizado con Flask.
